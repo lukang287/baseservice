@@ -1,0 +1,11 @@
+flask
+flask-sqlalchemy
+flask-debugtoolbar
+mysqlclient
+flask_script
+requests
+flask-cache
+python3-memcached
+qrcode[pil]
+Crypto
+pycrypto
