@@ -8,4 +8,4 @@ flask-cache
 python3-memcached
 qrcode[pil]
 Crypto
-pycrypto
+pycryto
